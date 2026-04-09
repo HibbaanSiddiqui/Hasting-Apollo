@@ -7,7 +7,7 @@ It replaces a slow, manual process (15–30 minutes per case) with a fast, struc
 
 Click below to see how AuthForge turns a messy doctor note into a prior authorization in seconds:
 
-[![AuthForge Demo](https://img.youtube.com/vi/awMkexWPTg8/maxresdefault.jpg)](https://youtu.be/MplY7sWBUXI)
+[![AuthForge Demo](https://img.youtube.com/vi/MplY7sWBUXI/maxresdefault.jpg)](https://youtu.be/MplY7sWBUXI)
 
 ## 🧠 What This Does
 
